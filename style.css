@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+
+}
+@font-face {
+    font-family: gilroy;
+    src: url(Font/Gilroy-Bold.ttf);
+}
+@media (max-width : 773px) {
+    .section-1{
+        display: block;
+        flex-direction: column-reverse;
+        text-align: center !important;
+
+    }
+    .login-section{
+        display: block;
+        flex-direction: column-reverse;
+        
+    }
+    
+}
