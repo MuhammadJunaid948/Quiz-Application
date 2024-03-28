@@ -1,11 +1,11 @@
 
 const form = document.querySelector("form")
+const signIn = document.getElementById("sign-In")
+    signIn.style.display = "none"
 
 function signUp() {
     const userEmail = document.getElementById("userEmail")
     const userPassword = document.getElementById("userPassword")
-    const signIn = document.getElementById("sign-In")
-    signIn.style.display = "none"
     
 
     form.addEventListener("submit", function (e) {
