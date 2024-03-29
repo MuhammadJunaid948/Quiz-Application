@@ -3,12 +3,12 @@ let quizdata = [
         {
                 "question": "What does HTML stand for?",
                 "a": "Hypertext Machine language.",
-                "b": "Hyper Text markup Language",
+                "b": "Hyper Text Markup Language",
                 "c": "Hightext machine language.",
                 "d": "Hypertext and links markup language",
 
 
-                "correct": "Hyper Text markup Language"
+                "correct": "Hyper Text Markup Language"
         },
         {
                 "question": "How is document type initialized in HTML5.",
@@ -16,7 +16,7 @@ let quizdata = [
                 "a": "<!DOCTYPE HTML>",
                 "b": "</DOCTYPE>",
                 "c": "</DOCTYPE html>",
-                "d": "Hypertext and links markup language",
+                "d": "<Doctype HTMl?>",
 
                 "correct": "<!DOCTYPE HTML>"
 
@@ -33,7 +33,7 @@ let quizdata = [
                 "correct": "<b>"
         },
         {
-                "question": "Which of the following HTML element is used for creating an unordered list?",
+                "question": "Which of the following HTML elements is used for creating an unordered list?",
 
                 "a": "<ui>",
                 "b": "<i>",
@@ -42,7 +42,7 @@ let quizdata = [
                 "correct": "<ul>"
         },
         {
-                "question": "Which of the following characters indicate closing of a tag? ",
+                "question": "Which of the following characters indicate the closing of a tag? ",
 
                 "a": ".",
                 "b": "/",
@@ -51,7 +51,7 @@ let quizdata = [
                 "correct": "/"
         },
         {
-                "question": "What is the font-size of the h1 heading tag?",
+                "question": "What is the font size of the h1 heading tag?",
 
                 "a": "20px",
                 "b": "2em",
@@ -66,19 +66,19 @@ let quizdata = [
                 "b": "<h6>",
                 "c": "<h2>",
                 "d": "6em",
-                "correct": "<h2>"
+                "correct": "6em"
         },
         {
-                "question": " Which of the following property is used to align the text of a document?",
+                "question": " Which of the following properties is used to align the text of a document?",
 
                 "a": "text-indent",
                 "b": "text-align",
                 "c": "text-decoration",
                 "d": "text-decoration",
-                "correct": " text-align"
+                "correct": "text-align"
         },
         {
-                "question": " Which of the following property is used to set the width of an image?",
+                "question": " Which of the following properties is used to set the width of an image?",
 
                 "a": "border",
                 "b": "width",
